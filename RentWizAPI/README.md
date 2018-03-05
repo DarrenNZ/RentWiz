@@ -1,0 +1,1 @@
+RENTWIZ API setup to interact with a frontend React app

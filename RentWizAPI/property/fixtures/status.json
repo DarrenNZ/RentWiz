@@ -1,0 +1,14 @@
+[
+  {
+    "model": "property.propertyStatus",
+    "fields": {
+      "status": "unavailable"
+    }
+  },
+  {
+    "model": "property.propertyStatus",
+    "fields": {
+      "status": "available"
+    }
+  }
+]
