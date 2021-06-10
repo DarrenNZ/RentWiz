@@ -21,7 +21,7 @@ cryptography==2.0
 cssselect==1.0.1
 decorator==4.1.2
 dj-database-url==0.4.2
-Django==2.0.1
+Django==2.2.24
 django-cors-headers==2.1.0
 djangorestframework==3.7.7
 docker-py==1.7.2
